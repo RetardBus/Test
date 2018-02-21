@@ -1,3 +1,3 @@
-print(test)
-print(hi)
-print(asdf)
+print(33)
+print(ne)
+print(hallo)
